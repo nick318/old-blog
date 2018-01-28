@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 remote_theme             : "mmistakes/minimal-mistakes"
 # Site Settings
 locale                   : "en-US"
-title                    : "icok"
+title                    : "icok blog"
 title_separator          : "-"
 name                     : "Nikita Salomatin"
 description              : "Blog about testing, development, management"
