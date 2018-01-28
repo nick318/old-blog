@@ -2,7 +2,7 @@ Microservices become more and more popular nowadays. It's obvious choice to solv
 you opportunity to support different platforms. Point about complexity should be discussed because I see 
 **people do not use benefits** of microservice.
 
-Let us remind why microservices exist in out tech world. What was the problem before microservices? Well, that is 
+Let us remind why microservices exist in our tech world. What was the problem before microservices? Well, that is 
 something from what you may be a little bit shaking. It is called -  [_monolith_](https://en.wikipedia.org/wiki/Monolithic_application).
 What was the problem with monolithic applications? Here are some of them: 
 All logic inside one place - which can break some piece of functionality when you develop/fix another piece. 
