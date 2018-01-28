@@ -2,16 +2,7 @@
 layout: post
 title:  "Why don't you use contracts for microservice?"
 date: 2018-01-28
-place: somewhere in Russia
-tags: testing development
-description: |
-Do you develop/test micro service? And still do not make and use contracts?
-What's wrong with you?
-keywords:
- - microservice
- - contract
- - testing
- - integration tests
+categories: testing development
 ---
 Microservices become more and more popular nowadays. It's obvious choice to solve problem of complexity and gives
 you opportunity to support different platforms. Point about complexity should be discussed because I see 
