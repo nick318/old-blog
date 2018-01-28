@@ -16,21 +16,22 @@ formal description what request and response will be in the particular situation
 
 What is a contract in the context of microservice? It is a declaration of what inputs are acceptable and what outputs
 will be for the inputs, considering state of application. Here is an example:<br>
-```Login service
+{% highlight java %}
+Login service
 General description
 path signUp
 method post
 arguments login, password
-```
-```
+{% endhighlight %}
+{% highlight java %}
 Case Successful sign up
 response 200
-```
-```
+{% endhighlight %}
+{% highlight java %}
 Case user exist
 response 500
 response body "User already exist"
-```
+{% endhighlight %}
 
 I simplified it to login service but in reality it can be complex logic with many conditions. What's wrong if you don't
 have such documentation? It is first sign for me, that your team does not have test double for your service. And it will
