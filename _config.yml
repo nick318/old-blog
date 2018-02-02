@@ -13,7 +13,7 @@ title                    : "Blog"
 title_separator          : "-"
 name                     : "Nikita Salomatin"
 description              : "Blog about testing, development, management and common sense"
-url                      : "https://icok.github.io"
+url                      : "https://nick318.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -53,7 +53,7 @@ analytics:
 # Site Author
 author:
   name             : "Nikita Salomatin"
-  avatar           : "https://socatar.com/github/icok" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://socatar.com/github/nick318" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a software engineer. I started my carreer as a tester and now I more and more go deeper into dev side."
   location         : "Russia"
   email            : "nsalomatin@hotmail.com"
@@ -65,7 +65,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iCok"
+  github           : "nick318"
   gitlab           :
   google_plus      :
   keybase          :
