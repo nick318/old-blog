@@ -34,7 +34,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@nsalomatin"
+  username               : "@nick318_"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -74,10 +74,10 @@ author:
   linkedin         : "nikita-salomatin" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : "9142561/nikita-salomatin" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "9142561/nick318" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "nsalomatin"
+  twitter          : "nick318_"
   vine             :
   weibo            :
   xing             :
