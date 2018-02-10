@@ -88,6 +88,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -221,3 +222,12 @@ defaults:
       comments: true
       share: true
       related: true
+
+pages:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
