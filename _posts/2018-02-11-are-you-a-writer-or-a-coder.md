@@ -1,3 +1,6 @@
+---
+title: "Are you a writer or a coder?"
+---
 Many years ago software developers had to solve deep technical problems while 
 writing a basic code. What I mean here: you had to think a lot about usage of memory,
  about process architecture (what commands are supported) and so on. 
