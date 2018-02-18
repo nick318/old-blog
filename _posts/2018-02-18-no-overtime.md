@@ -1,6 +1,7 @@
 ---
 title: "5 reasons not to overtime"
 ---
+![Overtime](https://recovermywages.com/wp-content/uploads/2016/12/salaried-overtime.jpg "Overtime")
 When I was a junior engineer I often went back home later then I had to. Because I thought I delivered small results
 to company during my work day. It was true, because every day I faced with a new problem and it took me some time to
 solve. But I think this kind of thinking is wrong.
