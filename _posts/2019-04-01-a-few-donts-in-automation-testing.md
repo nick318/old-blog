@@ -10,8 +10,8 @@ Bug tracker is full of issues. Sounds familiar, huh?<br>
 So a project manager decides to invite one person to write automation tests. This person will never be on time with a product 
 functions. Let's imagine, 5 devs work a day, and then make a build with quite big amount of changes. And only after build was done, this person
 could start to write automation tests. What does it mean for a project?<br>
-	* Bugs were already merged into master, and we should go through a channel of bug tracker which is not fast by the way.<br>
-	* After some iterations, it is clearly shown, that new bugs are not found by automation tests, just because tests have to be updated.
+* Bugs were already merged into master, and we should go through a channel of bug tracker which is not fast by the way.<br>
+* After some iterations, it is clearly shown, that new bugs are not found by automation tests, just because tests have to be updated.
 So, it will look like you have a new build, then you run automation tests, the majority of them are failed because of requirements changes.
 Then this <b>one</b> particular person makes some updates, and when tests are up to day, developers made a new one build (ha-ha), and we should start from
 	the beginning.<br>
