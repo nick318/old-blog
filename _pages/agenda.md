@@ -4,6 +4,7 @@ layout: single
 author_profile: true
 ---
 Here is an agenda of my next posts.
+* A few dont's in automation testing.
 * Enterprise development or frameworks monkey?
 * Gamification in a software projects
 * Less communication more documentation [done](https://nick318.github.io/2018/02/26/less-communication-more-documentation)
