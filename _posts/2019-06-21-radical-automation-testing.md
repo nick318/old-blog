@@ -11,7 +11,7 @@ From the side nothing looks bad, but devil is in the details.
 My first point is - automation testing it is not a dedicated job, we should not hire such engineers.
 
 Let's take a look at why I think so. Automation testing almost always cannot be divided from development activity, 
-and writing only e2e tests is an attempt to make such a division.. But there are a lot of technical and non-technical 
+and writing only e2e tests is an attempt to make such a division. But there are a lot of technical and non-technical 
 reasons why does it fail.
 
 <b>First</b>, end2end tests is really expensive [here is why](https://nick318.github.io/2019/01/04/a-few-donts-in-automation-testing).
@@ -34,8 +34,8 @@ Why developer should write unit and integration tests, but delegates the most te
  immediately, otherwise you will catch them in a few days/weeks.
  
  <b>Third</b>, in 2019 developer can write code and tests by him/herself. And I would say, developer will do it better.
- He/She knows all modules of application, what is a mocking, knows how to write code, and can write helpers for tests. Try to ask your developer to write some
-  utilities for you automation tests, I want to see this reaction. Developers do not want to do anything which is not 
+ He/She knows all modules of application, what is a mocking, knows how to write code, and can write helpers for tests. 
+ Try to ask your developer to write some utilities for your automation tests, I want to see this reaction. Developers do not want to do anything which is not 
   connected to their job. And when they should write tests for their code, they understand all difficulties and try to 
   make their life easier.
  
