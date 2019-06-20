@@ -1,5 +1,5 @@
 ---
-title: "A few dont's in automation testing."
+title: "A few dont's in automation testing"
 ---
 
 ##### 1. Do not invite separate person for writing automation tests.
