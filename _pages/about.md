@@ -5,7 +5,9 @@ author_profile: true
 ---
 Here is a page about me.
 
-I am a Java developer. Mostly I write some enterprise apps using Spring and Hibernate. But it is not all.
+I am a Fullstack developer. I write Java and Js code.
+On java it is Spring, Micronaut;
+On js it is React with mobx
 
 I'm also a part of open-source community, I contribute to some libraries. 
 You can check my github [profile](https://github.com/nick318). 
