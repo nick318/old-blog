@@ -19,4 +19,4 @@ following libraries: Junit, Rest-assured, Selenide, Selenium. I have built autom
 testing for web-services. Usually it was restful api. But I have mature experience with 
 UI automation as well.
 
-If you need any consulting within automation tests, feel free to contact by email "nsalomatin@hotmail.com".
+If you need any consulting within automation tests, feel free to contact by email "purger.sways_0v@icloud.com".
